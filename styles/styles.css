@@ -133,7 +133,7 @@ h1,h2,h3,h4,h5,h6{
     border-radius: 30px;
     border: 2px solid #D74932;
     background-color: transparent;
-    color: white;
+    color: gray;
     font-weight: 600;
     margin: 10px 0;
     display: inline-block;
